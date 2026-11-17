@@ -1,6 +1,6 @@
 # ABC
 
-A game boy colour emulator.
+A Game Boy Colour emulator.
 
 ## Build Tools
 
