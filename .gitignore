@@ -3,3 +3,4 @@ assets/game_roms/
 *.swp
 compile_commands.json
 session.vim
+assets/documentation
